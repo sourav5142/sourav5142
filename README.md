@@ -1,4 +1,4 @@
-# Hi 👋 I'm Sourav Sinha  
+# Hi 👋 I'm Sourav
 
 🚀 Cloud Computing Student | 💻 Full-Stack Developer (MERN) | 🤖 AI Explorer  
 
